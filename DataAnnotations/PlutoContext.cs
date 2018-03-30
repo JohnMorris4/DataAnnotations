@@ -1,4 +1,5 @@
-namespace CodeFirstPriorDatabase
+namespace DataAnnotations
+
 {
     using System;
     using System.Data.Entity;

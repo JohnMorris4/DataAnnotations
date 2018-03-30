@@ -1,4 +1,4 @@
-namespace CodeFirstPriorDatabase
+namespace DataAnnotations
 {
     using System;
     using System.Collections.Generic;
